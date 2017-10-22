@@ -18,3 +18,11 @@ Finishing on a small note, reflecting on last year, the ToDo.txt is back! Orderi
 ## Week Three
 
 As pressure piles up about the impending prototype pitches for the group project, we are reminded of the different weightings of importance and other module work across the team's different routes.  The BA team members are relying on the BScs to supply the game mechanics, and finding difficulty in moving forward along their own paths until these are in place.  Fair enough.  After discussion though, it seems the BSc current workload exceeds the other paths.  With these other pressing modules, it seems a matter of team loyalty driving me to work on the group project currently.  Again, fair enough.  This isn't a complaint, more an observation.  Reading eighty ish research papers for two research journals, and one essay, can indeed wait.  
+
+
+## Week Four
+
+Despite often having covered much of the content in class, Brian's OpenGl live coding videos provide some insight into the methodology of setting out a project. I am comfortable enough now plotting and rendering 3D environments that I look forward to the next steps - loading a texture, and dealing with colliders. Then I plan on trying to actually make a Doom style game, although other modules work stops me from doing so at the moment.  
+The HTML task has become a little drole now. Whilst I believe in principal it is essential to know as a computing professional, in practice it is hard to get very passionate about. Perhaps after many small chunks, I will have built up my own generic style sheet that I can understand and take forward, but not have to deal much with again.  
+Due to work / other modules, I have not given any more thought to the essay or research journals yet. Hopefully this is just me being pragmatic with priorities, but after remembering last year leaving many too late, I must make an effort on starting these after the current tasks.  
+
