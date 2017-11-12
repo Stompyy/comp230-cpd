@@ -28,5 +28,13 @@ Due to work / other modules, I have not given any more thought to the essay or r
 
 ## Week Five
 
-As our summer project Battle Screens continues to slowly sell 0 - 2 most days, I have been using it as a launching off point to start talking to the guest speakers about when they finish their talk and are packing down.  Unluckily, I had to leave before the I had a chance to talk to the last speaker, so instead I emailed him.  He emailed me back almost straight away, answering all my questions, but it felt great to have actually reached out and made contact with a currently active game making professional.  This is how you get a good job at the end of this course.  I was introduced to a guy fairly high up in antimatter this week too.  After that initial contact, it doesn't now feel rude to reach out to him with some questions.  Arguably, the staff at the university will have equal or greater advice to give, but it's this network of industry contacts out there hiring and firing, that I want to become known in.
+As our summer project Battle Screens continues to slowly sell 0 - 2 most days, I have been using it as a launching off point to start talking to the guest speakers about when they finish their talk and are packing down.  Unluckily, I had to leave before the I had a chance to talk to the last speaker, so instead I emailed him.  He emailed me back almost straight away, answering all my questions, but it felt great to have actually reached out and made contact with a currently active game making professional.  This is how you get a good job at the end of this course.  I was introduced to a guy fairly high up in antimatter this week too.  After that initial contact, it doesn't now feel rude to reach out to him with some questions.  
+Arguably, the staff at the university will have equal or greater advice to give, but it's this network of industry contacts out there hiring and firing, that I want to become known in.
 
+## Week Six
+
+The 'week of due dates' is nearing, but this time, I am prepared. Remembering how last year I would leave the work until last minute has spurred me to get on with it all a little sooner! This feeling of preparedness is far better obviously.
+
+## Week Seven
+
+Essay, research journal, wiki, maths library, documentation, group project. In that order. Priorities relating to hand in dates have placed the group project at the bottom of the list. I think the rest of the group understand this temporary lapse, as long as I can keep them upto date, and be honest - not promising work that I simply cannot do at the moment.
