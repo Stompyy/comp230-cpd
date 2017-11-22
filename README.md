@@ -45,3 +45,66 @@ Done, that was hard. Many deadlines coinciding do not leave much time for other 
 
 
 
+# Key points
+
+### Job balance
+
+Due to living and working quite a distance away, A lot of my time is spent either working or travelling.  
+roughly:  
+5 * 1h 40m driving  		8h 20m  
+5 * 30m walking from carpark	2h 30m  
+4 * 7h job			28h  
+				---
+				~40hrs
+
+### Using not learning
+
+In the first year, the majority of the time was spent learning how to use the tools. Now, we know them, The second year seems to be about using them effectively.
+
+### Letting the team down  
+
+It's hard to be relied upon as a programmer, when...
+
+### Dissertation or group???
+
+Need to look into this thing ...
+
+
+
+# Five key skills...?
+
+1. I learn quickly. Despite being out of the education system for a while.
+2. Extra curricular projects - BattleScreens, AR game. To take what I learn and run with it.
+3. Outreaching - Buzz interactive, Andrew Fray
+4. I can write well(?)
+5. Hospitality experience has given me the skill of easily being able to create rapport... 
+
+Taylor towards things I found challenging...
+Avoid description. Do analysis
+Don't focus on one 'Key skill domain'
+
+## Domains  
+
+### Dispositional 
+Motivation, discipline, time management
+Motivation - career change, daily around job/commitments
+
+### Affective
+Emotional intelligence, how am I affected by the challanges
+Take the challenges and apply to other projects
+
+### Interpersonal
+Listening, assertiveness, misunderstandings? Not of others, not blame game
+Group project
+
+### Cognitive
+(Input) Reflect what type of learner you are, 10000hrs discredited? Approach anchored to different fields
+
+### Procedural
+(Output) How I apply the cognitve knowledge
+How I find academic sources eg
+   
+
+Acive vs passive voice writing style for report. Do Active!
+S.M.A.R.T.
+
