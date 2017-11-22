@@ -38,3 +38,10 @@ The 'week of due dates' is nearing, but this time, I am prepared. Remembering ho
 ## Week Seven
 
 Essay, research journal, wiki, maths library, documentation, group project. In that order. Priorities relating to hand in dates have placed the group project at the bottom of the list. I think the rest of the group understand this temporary lapse, as long as I can keep them upto date, and be honest - not promising work that I simply cannot do at the moment.
+
+## Week Eight
+
+Done, that was hard. Many deadlines coinciding do not leave much time for other projects. This has been brought up not only for my future's sake, but also for other students in the future.
+
+
+
