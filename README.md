@@ -76,18 +76,38 @@ Need to look into this thing ...
 1. I learn quickly. Despite being out of the education system for a while.
 2. Extra curricular projects - BattleScreens, AR game. To take what I learn and run with it.
 3. Outreaching - Buzz interactive, Andrew Fray
-4. I can write well(?)
+4. I can write well(?) Shit one.
 5. Hospitality experience has given me the skill of easily being able to create rapport... 
 
 Taylor towards things I found challenging...
 Avoid description. Do analysis
 Don't focus on one 'Key skill domain'
 
+
+
+espresso-app.org or something?
+
+
+Highly structured report
+
+
+
+Brief intro 3 sentences brief roadmap, maybe bring into foreground career objectives to contextualise.
+list skills/challenges
+
+5sections 5 challenges
+brief conclusion detailing the 5 actions 3 sentences
+
+each section. What went wrong, how? describe smart action for vast majority
+
+
+
 ## Domains  
 
 ### Dispositional 
 Motivation, discipline, time management
 Motivation - career change, daily around job/commitments
+When you learn, your approach to learning
 
 ### Affective
 Emotional intelligence, how am I affected by the challanges
@@ -99,12 +119,39 @@ Group project
 
 ### Cognitive
 (Input) Reflect what type of learner you are, 10000hrs discredited? Approach anchored to different fields
+What are you doing to learn a new thing. Reading a book, watching videos etc
 
 ### Procedural
-(Output) How I apply the cognitve knowledge
+(Output) How I apply the cognitive knowledge
 How I find academic sources eg
    
 
 Acive vs passive voice writing style for report. Do Active!
 S.M.A.R.T.
+
+Specific	what who where when why, how achieved? Measurable outcome. How much, 
+	I will improve my ... and create a new ... each week (typing speed!)
+Measurable	how many
+Achievable	Is it? Don't be over ambitious
+Relevant	Will I need these skills in the future?
+Time-bound	time constraints, I will commit ... a week to this activity
+
+
+I will improve my photoshop(be more specific though) skills so that I can produce better assets for the team, which 
+will improve the overall look and feel of the apps we create. I will do this by completeing a 12-week beginner's 
+photoshop (be specific - name one) course on Linda.com in my owntime and creating a new app design concept each week.
+I will commit three hours each week for this activity.
+
+SMART objectives...  
+Pluralsight. Unix Lamp etc. future prospects
+Another app... AR? iOS License. folio Don't slow down momentum?
+typing speed, for notes during lectures. I find I learn more effectively, by following the teachers line of thoughte.g. Live coding videos
+Outreaching, Email guest speakers I would find it hard to number specific goals? networking
+Read research?
+Pick specialist subject asap then ^ then consider dissertation.
+Would love to get something published? Prob not achievable.
+
+
+
+
 
