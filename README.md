@@ -152,6 +152,10 @@ Pick specialist subject asap then ^ then consider dissertation.
 Would love to get something published? Prob not achievable.
 
 
+Recently the University gave the opportunity to take the Unity Certification exam, and I did not even briefly consider applying. In my opinion, a portfolio piece made using Unity would be far more valuable than the cretificate offered. This is all very well, however to follow this thought I must follow through and develop a portfolio piece using Unity now 
 
+Would love to get something published
+
+Another app... AR? iOS License. folio Don't slow down momentum?
 
 
